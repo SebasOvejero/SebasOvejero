@@ -2,7 +2,7 @@
 I am currently learning Front-End Development<br>Fun fact game many shooters
 
 #### My portfolio
-https://sebasovejero.github.io/Portafolio-SebasOvejero/
+[https://sebasovejero.github.io/Portafolio-SebasOvejero/](https://sebasovejero.github.io/SebasOvejero-Portafolio/)
 
 
 ## 🌐 Socials:
