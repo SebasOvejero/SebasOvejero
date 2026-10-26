@@ -16,7 +16,7 @@
 <p align="center">
   🇦🇷 Argentina · 💻 Front-End Development · 🤖 AI-Assisted Development
 </p>
-## 🧰 Tech Stack
+### 🧰 Tech Stack
 
 ### 💻 Front-End Development
 
